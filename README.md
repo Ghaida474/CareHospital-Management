@@ -5,6 +5,6 @@ This repository contains the project files for the "Care Hospital" project assig
 # Introduction
 Care Hospital" project is a web application designed to help hospital administrators effectively manage hospital systems. This project aims to provide technical tools that are convenient in assisting administrators to complete their tasks and finish their work with optimal performance and results.
 # Overview 
-The CareHospital Management System provides a user-friendly interface for managing various aspects of a hospital, including patient data, doctor schedules, emergency room operations, and in-patient ward management. The application is built using HTML and CSS, focusing on front-end development.
+The CareHospital Management System provides a user-friendly interface for managing various aspects of a hospital, including patient data, doctor schedules, emergency room operations, and in-patient ward management. The application is built using HTML, CSS and JavaScript, focusing on front-end development.
 # Installation
 To get started with the project, clone the repository to your local system.
