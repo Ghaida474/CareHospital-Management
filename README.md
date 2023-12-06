@@ -1,4 +1,4 @@
-# CareHospital-Management-
+# CareHospital-Management
 This repository contains the project files for the "Care Hospital" project assigned in the IT312 Web Applications Engineering course at King Saud University, College of Computer and Information Sciences, Department of Information Technology. This project is a collaborative effort by Group# 1, comprising of Munira Alhammad, Reema Alhenaki, Layan Altaleb, and Ghaida Alabdulqader.
 # Project Year
 2022
